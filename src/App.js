@@ -8,7 +8,7 @@ import Router from './Router';
 
 export default class App extends Component{
     componentWillMount(){  
-        // firebase config goes here
+        // firebase config for your project goes here
 }
 
     render(){
